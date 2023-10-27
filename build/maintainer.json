@@ -2368,11 +2368,15 @@
     "/firecore/:os": [
         "NathanDai"
     ],
-    "/firefox/addons/:id": [],
+    "/firefox/addons/:id": [
+        "DIYgod"
+    ],
     "/firefox/breaches": [
         "TonyRL"
     ],
-    "/firefox/release/:platform": [],
+    "/firefox/release/:platform": [
+        "fengkx"
+    ],
     "/fisher-spb/news": [
         "denis-ya"
     ],
@@ -2864,8 +2868,11 @@
     "/gov/maonan/:category": [
         "ShuiHuo"
     ],
-    "/gov/mee/ywdt?": [
+    "/gov/mee/ywdt/:category?": [
         "liuxsdev"
+    ],
+    "/gov/mem/gk/sgcc/:category?": [
+        "nczitzk"
     ],
     "/gov/mfa/wjdt/:category?": [
         "nczitzk"
@@ -5408,6 +5415,9 @@
     "/pku/bbs/hot": [
         "wooddance"
     ],
+    "/pku/cls/announcement": [
+        "william-swl"
+    ],
     "/pku/cls/lecture": [
         "TPOB"
     ],
@@ -6569,14 +6579,14 @@
     "/telecompaper/search/:keyword?/:company?/:sort?/:period?": [
         "nczitzk"
     ],
-    "/telegram/telegram/blog": [
+    "/telegram/blog": [
         "fengkx"
     ],
-    "/telegram/telegram/channel/:username/:routeParams?": [
+    "/telegram/channel/:username/:routeParams?": [
         "DIYgod",
         "Rongronggg9"
     ],
-    "/telegram/telegram/stickerpack/:name": [
+    "/telegram/stickerpack/:name": [
         "DIYgod"
     ],
     "/tencent/bigdata": [],
